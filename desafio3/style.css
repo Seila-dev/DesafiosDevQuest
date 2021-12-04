@@ -1,0 +1,27 @@
+
+div{
+    text-align: center;
+}
+.text{
+    margin: 40px;
+    padding: 20px;
+    font-size: 27px;
+    width: 70%;
+    height: 130px;
+    background-color: #F5F5F5;
+
+    
+   } 
+.text2{
+    margin: 40px;
+    padding: 20px;
+    font-size: 27px;
+    width: 70%;
+    height: 130px;
+    background-color: #F0CCE2;
+}
+.mark{
+    position:relative;
+    left: 45em;
+    top: 27em;
+}
