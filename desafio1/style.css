@@ -1,0 +1,34 @@
+html{
+    background: linear-gradient(#80ffff, #95ffcc);
+    min-height: 100%;
+    }
+    .span1{
+                    color: #ff8a80;
+    }
+    .main{
+                    text-align: center;
+                    margin: 30px;
+                    padding: 30px;
+                    font-size: 20px;
+    }
+    .conteudo{
+                    font-size: 28px;
+    }
+    .total{
+    
+        margin: 25px 40px;
+        padding: 20px 50px;
+                    text-align: center;
+                    background-color: #ffffbf;
+                    border-radius: 20px;
+    }
+    .mark{
+    text-align: right;
+    }
+    .conteudo{
+                    background-color: #ffffff;
+                    padding: 20px;
+                    margin: 30px 20px;
+                    border-radius: 15px;
+    }
+    
